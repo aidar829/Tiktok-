@@ -1,0 +1,4 @@
+python-telegram-bot==20.3
+requests==2.31.0
+playwright==1.39.0
+greenlet==2.0.2  # Более старая, но стабильная версия
